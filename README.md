@@ -1,6 +1,5 @@
-# ARnold-SH-VI
-# Created by ARnold Team on 2/1/20.
-# Copyright © 2020 ARnold Team. All rights reserved.
+# ARnold-SH-VI, Created by ARnold Team on 2/1/20.
+Copyright © 2020 ARnold Team. All rights reserved.
 
 Project made for Swamphacks VI, 2020
 
